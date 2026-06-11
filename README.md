@@ -1,6 +1,8 @@
 # Residential building case study
 i made a replica of a residential building :)
 
+<img width="420" height="300" alt="HOMe3D-Temp0003" src="https://github.com/user-attachments/assets/fa4a8288-a60a-4dc2-aafb-b299076b2f18" />
+
 ### Objective:
 - learn autocad 2D and 3D
 - understanding residential building layout
@@ -18,5 +20,5 @@ i made a replica of a residential building :)
   <img width="960" height="632" alt="image" src="https://github.com/user-attachments/assets/b59b575c-9f9e-4295-8a3e-a116ffc22434" />
 
 - to understand the basics of the 3D environment in autocad i made the elevation and a simple model of the building
-  <img width="800" height="600" alt="HOMe3D-Temp0003" src="https://github.com/user-attachments/assets/fa4a8288-a60a-4dc2-aafb-b299076b2f18" />
+  
 
